@@ -59,10 +59,6 @@ main()
 ```
 ### Command Line
 $ python main.py 
-Enter the directory of the FASTA reads file: 
-Enter the directory of the QUERY query file: 
-Enter the filename of the FASTA reads file: 
-Enter the filename of the  reads file: 
 ```
 $ python main.py 
 
